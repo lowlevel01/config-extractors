@@ -1,4 +1,4 @@
-// 820a1d5a52a6afbf36fe4c00e4d65716d3f796b53eab4c2bcd93a193e95a376d
+# 820a1d5a52a6afbf36fe4c00e4d65716d3f796b53eab4c2bcd93a193e95a376d
 
 from Crypto.Cipher import ChaCha20
 from binascii import unhexlify
