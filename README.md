@@ -1,2 +1,2 @@
 # config-extractors
-A collection of Config Extractors I made
+A collection of malware Config Extractors I made
