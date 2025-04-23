@@ -1,6 +1,6 @@
-// Reference: https://n1ght-w0lf.github.io/tutorials/dotnet-string-decryptor/
+# Reference: https://n1ght-w0lf.github.io/tutorials/dotnet-string-decryptor/
 
-// Works for all samples on Vx-Underground
+# Works for all samples on Vx-Underground
 
 import clr
 clr.AddReference("System")
